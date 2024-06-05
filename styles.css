@@ -1,10 +1,10 @@
 :root {
     --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --cinza-secundario: #bfdfe9;
+    --botao-azul: #5eb2da;
+    --cor-de-fundo: #40718d;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #4294ad;
 }
 
 }
@@ -115,7 +115,7 @@ background-repeat: no-repeat;
     color: var(--botao-azul);
 }
 .lista__link a:active {
-    color: purple;
+    color: rgb(131, 153, 211);
 }
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
