@@ -117,3 +117,7 @@ background-repeat: no-repeat;
 .lista__link a:active {
     color: purple;
 }
+.container__botao:hover {
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo);
+}
